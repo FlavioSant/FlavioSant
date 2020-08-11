@@ -2,7 +2,7 @@
 
 ## Olá Pessoal!
 Sou apaixonado pela programação e desenvolvimento web.
-Estou cursando Ciência da Computação, e estudando para ser um FullStack Develper! :computer: :rocket:
+Estou cursando Ciência da Computação, e estudando para ser um FullStack Developer! :computer: :rocket:
 
 <br/> :purple_heart: Buscando colaborar com projetos em Front-end ou Back-end.
 <br/> :construction_worker: Possuo experiências com Java, JavaWeb e SQL
