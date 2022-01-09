@@ -8,7 +8,7 @@
 ### Sobre mim
 
 Sou apaixonado pela programação e desenvolvimento web.
-Estou cursando Ciência da Computação, e estudando cada vez mais para melhorar minhas habilidades em front-end! :computer: :rocket:
+Sou formado no curso de Ciência da Computação pela universidade UNIP. Atualmente trabalho como desenvolvedor e estudando cada vez mais para melhorar minhas habilidades em front-end! :computer: :rocket:
 
 <br/> :purple_heart: Buscando colaborar com projetos em Front-end.
 
