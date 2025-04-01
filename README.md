@@ -7,9 +7,11 @@
 
 ### About me
 
-I'm passionate about programing and web development.
+💻 Front-End Software Engineer | Web Development Enthusiast 🚀
 
-I have a degree in Computer Science from Universidade Paulista (UNIP), located in Bauru - SP. I'm Software Engineer frontend and continue to study to improve my skills! 💻🚀💜
+I'm passionate about programming and web development. I have a Computer Science degree from UNIP – Bauru, SP, and I'm always learning to improve my skills.
+
+As a front-end developer, I build efficient and user-friendly interfaces. I enjoy exploring new technologies and keeping up with industry trends.
 
 ### 🚀 My technologies:
 
